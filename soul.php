@@ -6,6 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>
     <h1>Soul Easers</h1>
    
    <p><strong>It's a constant struggle soothing the savage beast but these techniques have been known to work. </strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe totam eum ducimus, alias labore fugit eveniet accusantium nesciunt similique maiores pariatur, commodi voluptates, aperiam quam animi voluptate! Illum, corporis, non?</p>

@@ -6,6 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>
     <h1>The Feats of Humanity</h1>
     <p>The things people can do will never cease to amaze me</p>
     

@@ -6,6 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>
    
    <h1>Start with the mind and the rest will follow.</h1>
    

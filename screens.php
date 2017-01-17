@@ -6,6 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>
     <h1>Quick escape</h1>
     <p>Is it a brain melter or a vessel to transport you to other worlds?</p>
     

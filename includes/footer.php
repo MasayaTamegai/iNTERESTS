@@ -1,1 +1,1 @@
-<footer>Masaya Tamegai</footer>
+<footer>Developed by <a href="http://www.masayatamegai.com" target="_blank">MasayaTamegai.com</a> 2017</footer>

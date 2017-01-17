@@ -6,6 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>
    
    <h1>Music soothes the savage beast</h1>
    <p>These are the tracks that add minutes to my lifespan.</p>

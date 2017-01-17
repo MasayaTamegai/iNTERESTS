@@ -6,7 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-   
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>   
    <h1>Diet</h1>
    <p><strong>I'm no perfect eater but I like to eat!  I try and keep it clean but sometimes I gotta have some pizza and beer and burgers.</strong> Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit, morbo vel maleficia? De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella viventium. Qui offenderit rapto, terribilem incessu. The voodoo sacerdos suscitat mortuos comedere carnem. Search for solum oculi eorum defunctis cerebro. Nescio an Undead zombies. Sicut malus movie horror.</p>
    

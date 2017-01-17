@@ -6,7 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-  
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>  
    <h1>Blood pumping activities</h1>
    
    <h3>Cardio</h3>

@@ -6,6 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>
    
    <h1>Things I keep interest in to stay sane.</h1>
    <p>I keep my <a href="body.php" target="_blank">body</a> strong.</p>

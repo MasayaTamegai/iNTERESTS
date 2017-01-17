@@ -6,7 +6,8 @@
     <link rel="stylesheet" type="text/css" href="css/main.css">
 </head>
 <body>
-   
+<!--NAVBAR-->
+<?php include "includes/navbar.php"; ?>
     <h1>This is my schedule.</h1>
     <iframe src="https://calendar.google.com/calendar/embed?src=j38uik26uteu8au7n5to30cplk%40group.calendar.google.com&ctz=America/Chicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
     
