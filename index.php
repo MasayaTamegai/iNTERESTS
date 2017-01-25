@@ -7,17 +7,14 @@
         <title>Balance</title>
         
 
-    <!--NAVBAR-->
+    <!--HEADER & NAVBAR-->
     <?php include "includes/navbar.php"; ?>
 
     <!-- Page Content -->
     <div class="container">
         <div class="row">
-            <p>I keep my <a href="body.php">body</a> strong.</p>
-            <p>I keep my <a href="mind.php">mind</a> sharp.</p>
-            <p>My <a href="soul.php" target="_blank">soul</a> at ease.</p>
-
-           <!-- Blog Entries -->
+            
+            <!-- Blog Entries -->
             <div class="col-md-8">
                
                 <?php 
@@ -54,6 +51,8 @@
                 <hr>
                 <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
                 
+                <hr>
+                
                 <?php } ?>
                 
                 
@@ -64,8 +63,4 @@
     
     </div> <!-- End of Page Content -->
 
-</body>
-
 <?php include "includes/footer.php"; ?>
-
-</html>
