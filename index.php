@@ -45,7 +45,7 @@
                 </p>
                 <p><span class="glyphicon glyphicon-time"></span><?php echo $post_date ?></p>
                 <hr>
-                <img class="img-responsive" src="images/<?php echo $post_image; ?>" alt="">
+                <img width="200" class="img-responsive" src="images/<?php echo $post_image; ?>" alt="">
                 <hr>
                 <p><?php echo $post_content ?></p>
                 <hr>
@@ -59,8 +59,10 @@
                 
             </div> <!-- End of Blog Entries -->
         
-        </div> <!-- End of Row -->
+        
     
-    </div> <!-- End of Page Content -->
+<?php include "includes/sidebar.php"; ?>
+
+<hr>
 
 <?php include "includes/footer.php"; ?>
