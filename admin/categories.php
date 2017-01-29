@@ -16,6 +16,7 @@
                             Blank Page
                             <small>Subheading</small>
                         </h1>
+                        
                         <div class="col-xs-6">
                             
                             <?php insert_categories(); ?>
@@ -29,12 +30,15 @@
                                     <input type="submit" class="btn btn-primary" name="submit" value="Add Category">
                                 </div>
                             </form>
+                            
                             <?php 
+                            
                             if(isset($_GET['edit'])) {
                                 $cat_id = $_GET['edit'];
                                 include "admin-includes/edit-categories.php";
                             }
                             ?>
+                        
                         </div>
                         <div class="col-xs-6">
                             <table class="table table-bordered table-hover">

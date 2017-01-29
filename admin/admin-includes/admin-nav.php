@@ -55,7 +55,7 @@
                                 <a href="./posts.php">View All Posts</a>
                             </li>
                             <li>
-                                <a href="#">Add a Post</a>
+                                <a href="./posts.php">Add a Post</a>
                             </li>
                         </ul>
                     </li>
