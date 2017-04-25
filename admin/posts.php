@@ -27,11 +27,11 @@
                         
                     switch($source) {
                         case 'add_post';
-                        include "includes/add_post.php";
+                        include "admin-includes/add-post.php";
                         break;
                         
                         case 'edit_post';
-                        include "includes/edit_post.php";
+                        include "admin-includes/edit-posts.php";
                         break;
                         
                         case '200';
